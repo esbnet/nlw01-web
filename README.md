@@ -60,3 +60,5 @@ You will also see any lint errors in the console.
 - Pegar estado e cidade da API do IBGE
 - Selecionar uma localidade no mapa
 - Carregar a localização do usuário no mapa
+- Selecionar os items
+- Enviar para a API do back-end
